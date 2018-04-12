@@ -14,8 +14,8 @@
       <file leaf-file-name="test_bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="322" column="109" lean-forward="true" selection-start-line="321" selection-start-column="24" selection-end-line="322" selection-end-column="109" />
+            <state relative-caret-position="5320">
+              <caret line="343" column="42" lean-forward="true" selection-start-line="343" selection-start-column="42" selection-end-line="343" selection-end-column="42" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -26,9 +26,11 @@
       <file leaf-file-name="control_bot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/control_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="304">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,8 +87,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="152" />
+    <option name="x" value="235" />
+    <option name="y" value="36" />
     <option name="width" value="1327" />
     <option name="height" value="1007" />
   </component>
@@ -105,8 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -160,7 +162,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="152" width="1327" height="1007" extended-state="0" />
+    <frame x="235" y="36" width="1327" height="1007" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17467582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -209,13 +211,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_bot.py</url>
-          <line>341</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -242,7 +237,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -260,7 +277,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -278,7 +297,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,7 +317,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -314,7 +337,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -332,7 +357,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -350,7 +377,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
           <caret line="49" column="82" lean-forward="true" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -368,7 +397,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2204">
           <caret line="122" column="71" lean-forward="true" selection-start-line="122" selection-start-column="71" selection-end-line="122" selection-end-column="71" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -386,7 +417,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -490,16 +523,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="322" column="109" lean-forward="true" selection-start-line="321" selection-start-column="24" selection-end-line="322" selection-end-column="109" />
+        <state relative-caret-position="5320">
+          <caret line="343" column="42" lean-forward="true" selection-start-line="343" selection-start-column="42" selection-end-line="343" selection-end-column="42" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
