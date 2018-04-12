@@ -11,23 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_bot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_bot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5320">
-              <caret line="343" column="42" lean-forward="true" selection-start-line="343" selection-start-column="42" selection-end-line="343" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="control_bot.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="control_bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/control_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#98#0" expanded="true" />
               </folding>
@@ -81,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/control_bot.py" />
         <option value="$PROJECT_DIR$/test_bot.py" />
+        <option value="$PROJECT_DIR$/control_bot.py" />
       </list>
     </option>
   </component>
@@ -107,8 +95,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -223,16 +211,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
+    <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#98#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
+    <entry file="file://$PROJECT_DIR$/control_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -243,16 +243,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -263,16 +254,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7296">
-          <caret line="389" column="0" lean-forward="false" selection-start-line="389" selection-start-column="0" selection-end-line="390" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -283,16 +265,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -303,16 +276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -323,16 +287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
@@ -343,16 +298,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="108" column="88" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -363,16 +309,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1957">
-          <caret line="108" column="88" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -383,16 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7201">
-          <caret line="384" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2204">
@@ -403,16 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
@@ -521,22 +440,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot.py" />
     <entry file="file://$PROJECT_DIR$/control_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5320">
-          <caret line="343" column="42" lean-forward="true" selection-start-line="343" selection-start-column="42" selection-end-line="343" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
