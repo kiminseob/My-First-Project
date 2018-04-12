@@ -10,10 +10,6 @@ token = '텔레그램 봇 토큰'
 bot = telegram.Bot(token)
 
 
-sadfasdfasdf!!!!!!!!!!!!!!!!!!
-
-
-
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
