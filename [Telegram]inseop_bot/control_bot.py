@@ -9,6 +9,11 @@ token = '텔레그램 봇 토큰'
 #텔레그렘 봇의 API 키 가져옴
 bot = telegram.Bot(token)
 
+
+sadfasdfasdf!!!!!!!!!!!!!!!!!!
+
+
+
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
