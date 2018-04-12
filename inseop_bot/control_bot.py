@@ -12,6 +12,11 @@ bot = telegram.Bot(token)
 #chat_id = 350018866  #내아이디
 #chat_id = 522756804 #해진아이디
 
+
+sadfasdfasdf!!!!!!!!!!!!!!!!!!
+
+
+
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
